@@ -1,0 +1,250 @@
+.logo-wrapper {
+  display: contents;
+}
+ 
+.logo-container {
+  display: contents;
+}
+ 
+.logo-image {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+ 
+.logoroot-class-name {
+  width: var(--spacing-xs);
+  height: var(--spacing-xs);
+  max-width: var(--spacing-lg);
+  max-height: var(--spacing-lg);
+}
+
+.logo-wrapper-ibtn {
+  display: contents;
+}
+ 
+.logo-container1 {
+  display: contents;
+}
+ 
+.logo-image1 {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+ 
+.logoroot-class-name {
+  width: var(--spacing-xs);
+  height: var(--spacing-xs);
+  max-width: var(--spacing-lg);
+  max-height: var(--spacing-lg);
+}
+
+.navigation-wrapper {
+  display: contents;
+}
+ 
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-thq-hc-nav-left-elm {
+  justify-self: start;
+}
+ 
+.navigation-navlink {
+  display: contents;
+}
+ 
+.navigation-component1 {
+  text-decoration: none;
+}
+ 
+.navigation-thq-hc-nav-brand-elm1 {
+  border-color: #ffffff;
+  border-style: dashed;
+  border-width: 2px;
+}
+ 
+.navigation-thq-hc-nav-panel-elm {
+  margin-top: 0;
+}
+ 
+.navigation-thq-hc-nav-toggle-elm1 {
+  padding-left: var(--spacing-md);
+}
+ 
+.navigation-thq-hc-nav-toggle-elm2 {
+  padding-left: var(--spacing-md);
+}
+ 
+.navigation-thq-hc-nav-link-elm1 {
+  text-decoration: none;
+}
+ 
+.navigation-thq-text-elm {
+  padding-left: var(--spacing-md);
+  padding-right: var(--spacing-md);
+}
+ 
+.navigation-thq-hc-nav-link-elm2 {
+  width: 80px;
+  height: 40px;
+  text-decoration: none;
+}
+ 
+.navigation-text1 {
+  text-align: center;
+}
+ 
+.navigation-thq-hc-nav-check-elm {
+  padding-left: 2.5rem;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}
+ 
+@media(max-width: 479px) {
+  .navigation-thq-hc-nav-panel-elm {
+    display: none;
+  }
+}
+
+.footer-wrapper {
+  display: contents;
+}
+ 
+.footer-container {
+  display: contents;
+}
+ 
+.footer-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+
+.home-container10.home-container10 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.home-container11.home-container11 {
+  display: none;
+}
+ 
+.home-container12.home-container12 {
+  display: contents;
+}
+ 
+.home-thq-home-hero-elm.home-thq-home-hero-elm {
+  background-image: radial-gradient(color-mix(in srgb, var(--color-on-surface) 16%, transparent) 1.3px, transparent 1.8px);
+}
+ 
+.home-thq-btn-elm2.home-thq-btn-elm2 {
+  text-decoration: none;
+}
+ 
+.home-image1.home-image1 {
+  width: 634px;
+  height: 346px;
+  object-fit: cover;
+}
+ 
+.home-container13.home-container13 {
+  gap: 16px;
+  display: flex;
+  min-height: 80px;
+  flex-direction: column;
+}
+ 
+.home-image2.home-image2 {
+  width: 200px;
+  transform: rotate(-13deg);
+  object-fit: cover;
+  padding-top: 20px;
+}
+ 
+.home-thq-home-drops-elm.home-thq-home-drops-elm {
+  display: block;
+}
+ 
+.home-container14.home-container14 {
+  z-index: 1;
+  position: relative;
+}
+ 
+.home-thq-home-cal-kicker-elm.home-thq-home-cal-kicker-elm {
+  font-size: 20px;
+}
+ 
+.home-thq-home-cal-row-elm.home-thq-home-cal-row-elm {
+  font-size: 24px;
+}
+ 
+.home-text24.home-text24 {
+  text-decoration: underline;
+}
+ 
+.home-container15.home-container15 {
+  display: none;
+}
+ 
+.home-container16.home-container16 {
+  display: contents;
+}
+ 
+.home-container17.home-container17 {
+  display: none;
+}
+ 
+.home-container18.home-container18 {
+  display: contents;
+}
+ 
+.home-container19.home-container19 {
+  display: none;
+}
+ 
+.home-container20.home-container20 {
+  display: contents;
+}
+ 
+.home-container21.home-container21 {
+  display: none;
+}
+ 
+.home-container22.home-container22 {
+  display: contents;
+}
+ 
+@media(max-width: 479px) {
+  .home-thq-home-hero-inner-elm.home-thq-home-hero-inner-elm {
+    width: auto;
+  }
+  .home-thq-home-hero-copy-elm.home-thq-home-hero-copy-elm {
+    width: 429px;
+  }
+  .home-thq-home-hero-stage-elm.home-thq-home-hero-stage-elm {
+    width: 429px;
+  }
+  .home-image1.home-image1 {
+    width: 100%;
+  }
+  .home-text24.home-text24 {
+    text-decoration: underline;
+  }
+}

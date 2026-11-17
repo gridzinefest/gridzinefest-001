@@ -1,0 +1,246 @@
+.logo-wrapper {
+  display: contents;
+}
+ 
+.logo-container {
+  display: contents;
+}
+ 
+.logo-image {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+ 
+.logoroot-class-name {
+  width: var(--spacing-xs);
+  height: var(--spacing-xs);
+  max-width: var(--spacing-lg);
+  max-height: var(--spacing-lg);
+}
+
+.logo-wrapper-hhlw {
+  display: contents;
+}
+ 
+.logo-container1 {
+  display: contents;
+}
+ 
+.logo-image1 {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+ 
+.logoroot-class-name {
+  width: var(--spacing-xs);
+  height: var(--spacing-xs);
+  max-width: var(--spacing-lg);
+  max-height: var(--spacing-lg);
+}
+
+.navigation-wrapper {
+  display: contents;
+}
+ 
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-thq-hc-nav-left-elm {
+  justify-self: start;
+}
+ 
+.navigation-navlink {
+  display: contents;
+}
+ 
+.navigation-component1 {
+  text-decoration: none;
+}
+ 
+.navigation-thq-hc-nav-brand-elm1 {
+  border-color: #ffffff;
+  border-style: dashed;
+  border-width: 2px;
+}
+ 
+.navigation-thq-hc-nav-panel-elm {
+  margin-top: 0;
+}
+ 
+.navigation-thq-hc-nav-toggle-elm1 {
+  padding-left: var(--spacing-md);
+}
+ 
+.navigation-thq-hc-nav-toggle-elm2 {
+  padding-left: var(--spacing-md);
+}
+ 
+.navigation-thq-hc-nav-link-elm1 {
+  text-decoration: none;
+}
+ 
+.navigation-thq-text-elm {
+  padding-left: var(--spacing-md);
+  padding-right: var(--spacing-md);
+}
+ 
+.navigation-thq-hc-nav-link-elm2 {
+  width: 80px;
+  height: 40px;
+  text-decoration: none;
+}
+ 
+.navigation-text1 {
+  text-align: center;
+}
+ 
+.navigation-thq-hc-nav-check-elm {
+  padding-left: 2.5rem;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}
+ 
+@media(max-width: 479px) {
+  .navigation-thq-hc-nav-panel-elm {
+    display: none;
+  }
+}
+
+.footer-wrapper {
+  display: contents;
+}
+ 
+.footer-container {
+  display: contents;
+}
+ 
+.footer-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+
+.about-container1.about-container1 {
+  width: 100%;
+  min-height: 100vh;
+}
+ 
+.about-thq-hc-title-elm1.about-thq-hc-title-elm1 {
+  padding-bottom: var(--spacing-xl);
+}
+ 
+.about-thq-hc-wrap-elm1.about-thq-hc-wrap-elm1 {
+  align-items: start;
+}
+ 
+.about-image.about-image {
+  width: 512px;
+  height: 340px;
+  object-fit: cover;
+}
+ 
+.about-thq-cal-rules-copy-elm.about-thq-cal-rules-copy-elm {
+  width: 1125px;
+}
+ 
+.about-thq-cal-rules-row-elm1.about-thq-cal-rules-row-elm1 {
+  display: grid;
+}
+ 
+.about-thq-cal-rules-row-elm2.about-thq-cal-rules-row-elm2 {
+  display: grid;
+}
+ 
+.about-thq-cal-rules-row-elm3.about-thq-cal-rules-row-elm3 {
+  display: grid;
+}
+ 
+.about-thq-cal-rules-row-elm4.about-thq-cal-rules-row-elm4 {
+  display: grid;
+}
+ 
+.about-thq-cal-rules-row-elm5.about-thq-cal-rules-row-elm5 {
+  display: grid;
+}
+ 
+.about-container2.about-container2 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+}
+ 
+.about-container3.about-container3 {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+}
+ 
+.about-thq-contact-req-elm1.about-thq-contact-req-elm1 {
+  color: var(--color-secondary);
+}
+ 
+.about-thq-contact-req-elm2.about-thq-contact-req-elm2 {
+  color: var(--color-secondary);
+}
+ 
+.about-thq-contact-req-elm3.about-thq-contact-req-elm3 {
+  color: var(--color-secondary);
+}
+ 
+.about-thq-contact-req-elm4.about-thq-contact-req-elm4 {
+  color: var(--color-secondary);
+}
+ 
+.about-thq-contact-next-tag-elm.about-thq-contact-next-tag-elm {
+  flex: none;
+  color: var(--color-on-secondary);
+  border: 2px solid var(--color-border);
+  padding: 3px 8px;
+  font-size: var(--font-size-xs);
+  background: var(--color-secondary);
+  font-family: var(--font-family-heading);
+  text-transform: uppercase;
+}
+ 
+.about-thq-contact-next-text-elm.about-thq-contact-next-text-elm {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-family-body);
+}
+ 
+.about-container4.about-container4 {
+  display: none;
+}
+ 
+.about-container5.about-container5 {
+  display: contents;
+}
+ 
+@media(max-width: 479px) {
+  .about-thq-hc-wrap-elm1.about-thq-hc-wrap-elm1 {
+    width: 451px;
+  }
+  .about-image.about-image {
+    width: 438px;
+    margin-right: 0px;
+  }
+  .about-thq-hc-lede-elm1.about-thq-hc-lede-elm1 {
+    width: 442px;
+  }
+}

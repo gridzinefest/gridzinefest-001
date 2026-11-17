@@ -1,0 +1,16 @@
+.logo-container.logo-container {
+  display: contents;
+}
+ 
+.logo-image.logo-image {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+ 
+.logoroot-class-name {
+  width: var(--spacing-xs);
+  height: var(--spacing-xs);
+  max-width: var(--spacing-lg);
+  max-height: var(--spacing-lg);
+}

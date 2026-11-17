@@ -1,0 +1,120 @@
+.logo-wrapper {
+  display: contents;
+}
+ 
+.logo-container {
+  display: contents;
+}
+ 
+.logo-image {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+ 
+.logoroot-class-name {
+  width: var(--spacing-xs);
+  height: var(--spacing-xs);
+  max-width: var(--spacing-lg);
+  max-height: var(--spacing-lg);
+}
+
+.logo-wrapper-z2fe {
+  display: contents;
+}
+ 
+.logo-container1 {
+  display: contents;
+}
+ 
+.logo-image1 {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+ 
+.logoroot-class-name {
+  width: var(--spacing-xs);
+  height: var(--spacing-xs);
+  max-width: var(--spacing-lg);
+  max-height: var(--spacing-lg);
+}
+
+.navigation-container1.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-thq-hc-nav-left-elm.navigation-thq-hc-nav-left-elm {
+  justify-self: start;
+}
+ 
+.navigation-navlink.navigation-navlink {
+  display: contents;
+}
+ 
+.navigation-component1.navigation-component1 {
+  text-decoration: none;
+}
+ 
+.navigation-thq-hc-nav-brand-elm1.navigation-thq-hc-nav-brand-elm1 {
+  border-color: #ffffff;
+  border-style: dashed;
+  border-width: 2px;
+}
+ 
+.navigation-thq-hc-nav-panel-elm.navigation-thq-hc-nav-panel-elm {
+  margin-top: 0;
+}
+ 
+.navigation-thq-hc-nav-toggle-elm1.navigation-thq-hc-nav-toggle-elm1 {
+  padding-left: var(--spacing-md);
+}
+ 
+.navigation-thq-hc-nav-toggle-elm2.navigation-thq-hc-nav-toggle-elm2 {
+  padding-left: var(--spacing-md);
+}
+ 
+.navigation-thq-hc-nav-link-elm1.navigation-thq-hc-nav-link-elm1 {
+  text-decoration: none;
+}
+ 
+.navigation-thq-text-elm.navigation-thq-text-elm {
+  padding-left: var(--spacing-md);
+  padding-right: var(--spacing-md);
+}
+ 
+.navigation-thq-hc-nav-link-elm2.navigation-thq-hc-nav-link-elm2 {
+  width: 80px;
+  height: 40px;
+  text-decoration: none;
+}
+ 
+.navigation-text1.navigation-text1 {
+  text-align: center;
+}
+ 
+.navigation-thq-hc-nav-check-elm.navigation-thq-hc-nav-check-elm {
+  padding-left: 2.5rem;
+}
+ 
+.navigation-container2.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5.navigation-container5 {
+  display: contents;
+}
+ 
+@media(max-width: 479px) {
+  .navigation-thq-hc-nav-panel-elm.navigation-thq-hc-nav-panel-elm {
+    display: none;
+  }
+}

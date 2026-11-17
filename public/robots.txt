@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://copy-of-grid-zine-fest-ffr5lj.teleporthq.site/sitemap.xml
